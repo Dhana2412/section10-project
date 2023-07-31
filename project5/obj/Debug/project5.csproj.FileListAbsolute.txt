@@ -1,0 +1,8 @@
+C:\Users\dhana\OneDrive\Documents\section10 project\project5\project5\bin\Debug\project5.exe.config
+C:\Users\dhana\OneDrive\Documents\section10 project\project5\project5\bin\Debug\project5.exe
+C:\Users\dhana\OneDrive\Documents\section10 project\project5\project5\bin\Debug\project5.pdb
+C:\Users\dhana\OneDrive\Documents\section10 project\project5\project5\obj\Debug\project5.csproj.AssemblyReference.cache
+C:\Users\dhana\OneDrive\Documents\section10 project\project5\project5\obj\Debug\project5.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhana\OneDrive\Documents\section10 project\project5\project5\obj\Debug\project5.csproj.CoreCompileInputs.cache
+C:\Users\dhana\OneDrive\Documents\section10 project\project5\project5\obj\Debug\project5.exe
+C:\Users\dhana\OneDrive\Documents\section10 project\project5\project5\obj\Debug\project5.pdb
